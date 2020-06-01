@@ -1,4 +1,4 @@
-package legacy_vs_functional;
+package lambdas;
 
 public class RunnableExample {
 
